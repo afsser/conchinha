@@ -1,0 +1,7 @@
+*.o
+*.a
+a.out
+minishell
+.vscode
+_rascunhos
+.heredoc_tmp
